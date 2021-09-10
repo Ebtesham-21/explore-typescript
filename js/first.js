@@ -1,3 +1,8 @@
 "use strict";
-const myNumber = 5;
-console.log("hello ts", myNumber);
+let money = 88;
+let honey = 'ezaz';
+function add(first, second) {
+    const result = first + second;
+    return result;
+}
+const output = add(40, 87);
